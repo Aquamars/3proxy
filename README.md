@@ -1,11 +1,15 @@
 # 3proxy
 Dockerized 3proxy. (HTTP, SOCKS)
 
-3proxy is tiny  proxy server.
+[3proxy](https://3proxy.ru/) is tiny proxy server.
 
 This repo is modified based on [rb-dock8s/3proxy](https://github.com/rb-dock8s/3proxy).
 
 Add little changed for customized port.
+
+Github link: https://github.com/Aquamars/3proxy
+
+Dockerhub link: https://hub.docker.com/repository/docker/aquamars00/3proxy/
 
 ## Environment variables
 
